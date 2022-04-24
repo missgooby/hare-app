@@ -1,3 +1,5 @@
+This is a pathfinding visualization project created with CSS, HTML, and Javascript.
+I followed Clement Mihailescu's tutorial which can be found here: https://www.youtube.com/watch?v=msttfIHHkak&t=2574s
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
