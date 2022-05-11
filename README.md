@@ -1,5 +1,10 @@
-This is a pathfinding visualization project created with CSS, HTML, and Javascript.
+This is a pathfinding visualization project created with CSS, HTML, and Javascript for HackUNT's 2022 hackathon.
+The application was built by Tahlil Darwish, and the figma application prototype was built by Sunshine Calderone. 
+
+The pathfinder is built off of Dijkstra's Shortest Path Algorithm which can be explained in detail here: https://brilliant.org/wiki/dijkstras-short-path-finder/#:~:text=One%20algorithm%20for%20finding%20the,other%20points%20in%20the%20graph.
+
 I followed Clement Mihailescu's tutorial which can be found here: https://www.youtube.com/watch?v=msttfIHHkak&t=2574s
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
